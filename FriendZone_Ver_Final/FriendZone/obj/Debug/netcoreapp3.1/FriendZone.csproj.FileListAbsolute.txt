@@ -1,0 +1,91 @@
+C:\Users\USER\source\repos\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.exe
+C:\Users\USER\source\repos\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.deps.json
+C:\Users\USER\source\repos\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.json
+C:\Users\USER\source\repos\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.dev.json
+C:\Users\USER\source\repos\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\source\repos\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\source\repos\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfo.cs
+C:\Users\USER\source\repos\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\source\repos\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\source\repos\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.genruntimeconfig.cache
+C:\Users\USER\Desktop\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.exe
+C:\Users\USER\Desktop\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.deps.json
+C:\Users\USER\Desktop\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.json
+C:\Users\USER\Desktop\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.dev.json
+C:\Users\USER\Desktop\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\FriendZone\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfo.cs
+C:\Users\USER\Desktop\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\FriendZone\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.genruntimeconfig.cache
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.exe
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.deps.json
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.json
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.dev.json
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfo.cs
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\FriendZone - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.genruntimeconfig.cache
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.exe
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.deps.json
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.json
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.dev.json
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfo.cs
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\FriendZone - New\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.genruntimeconfig.cache
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.exe
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.deps.json
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.json
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.dev.json
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfo.cs
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.genruntimeconfig.cache
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.exe
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.deps.json
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.json
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfo.cs
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\Admin\Desktop\งานต่างๆ (1)\OOP\FriendZone - New - Copy\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.genruntimeconfig.cache
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.exe
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.deps.json
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.json
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\bin\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.AssemblyInfo.cs
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.dll
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.pdb
+C:\Users\USER\Desktop\Project_OOP\FriendZone_Ver_Final\FriendZone\obj\Debug\netcoreapp3.1\FriendZone.genruntimeconfig.cache
